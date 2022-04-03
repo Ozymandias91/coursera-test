@@ -69,9 +69,6 @@ Coursera test repository
             <td>互联网</td>
             <td>科技</td>
             <td>游戏</td>
-            <td>女人</td>
-            <td>汽车</td>
-            <td>房产</td>
         </tr>
     </table>
 
