@@ -1,82 +1,60 @@
-# coursera-test
-Coursera test repository
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The page I created using VSCODE</title>
-    <style>
-        td:link{
-            background-color:blue;
-        }
-        td:visited{
-            background-color:blue;
-        }
-        td:hover{
-            background-color:red;
-        }
-        td:active{
-            background-color:yellow;
-        }
-
-        a:link{
-            background-color:blue;
-            color:white;
-        }
-        a:visited{
-            background-color:blue;
-            color:white;
-        }
-        a:hover{
-            background-color:red;
-        }
-        a:active{
-            background-color:yellow;
-        }
-    </style>
-
+    <title>Document</title>
 </head>
 <body>
-    <center>With the striking of the gong, comes a great fortune. <br>锣声一响，黄金万两。6666</center>
-    <hr color="green" width="600" align="left">     
-    <hr color="red" width="600" align="right">     
+    <ol type="1">
+        <li>打开冰箱门</li> 
+        <li>把大象拿出来</li> 
+        <li>把比萨饼装进冰箱</li> 
+        <li>把冰箱门关上</li> 
+    </ol>
 
-    <p>&#128514</p> 
-    <p>&#128515</p>
-    <p>&#128514</p> 
-    <p>&#128515</p>
-    <p>&#128514</p> 
-    <p>&#128515</p>
-    <p>&#128514</p> 
-    <p>&#128515</p>
-
-    <p>&#128514</p> 
-    <p>&#128515</p>
-    <p>&#128514</p> 
-    <p>&#128515</p>
-
+    &#128514&#128514&#128514&#128514&#128514&#128514
+    
+    <ul>
+        <li>aaaa</li>
+        <li>aaaa</li>
+        <li>aaaa</li>
+    </ul>
+    <form action="">
     <table border="1">
-        <tr>
-            <td>首页</td>
-            <td>国内</td>
-            <td>国际</td>
-            <td>军事</td>
-            <td>财经</td>
-            <td>娱乐</td>
-            <td>体育</td>
-            <td>互联网</td>
-            <td>科技</td>
-            <td>游戏</td>
+        <tr align="center">
+            <td width="100">会员姓名</td>
+            <td width="150"><input type="text"></td>
+            <td width="100">出生日期</td>
+            <td width="150"></td>
+        </tr>
+        <tr align="center">
+            <td>身份证号</td>
+            <td colspan="3"></td>
+            <!-- <td></td>
+            <td></td> -->
+        </tr>
+        <tr align="center">
+            <td>地址</td>
+            <td colspan="3"></td>
+            <!-- <td></td>
+            <td></td> -->
+        </tr>
+        <tr align="center">
+            <td>电话</td>
+            <td colspan="3"></td>
+            <!-- <td></td>
+            <td></td> -->
+        </tr>
+        <tr align="center">
+            <td>会员卡号</td>
+            <td colspan="3"></td>
+            <!-- <td></td>
+            <td></td -->
         </tr>
     </table>
-
-    <a href="http://google.com.au">首页</a>
-    <a href>国内</a>
-    <a href>国际</a>
-    <a href>军事</a>
-    <a href>财经</a>
-    <a href>娱乐</a>
+    <input type="submit" value="submit">
+    </form>
 </body>
 </html>
